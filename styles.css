@@ -96,13 +96,13 @@ a img{border:0px;}
 /* EXPERIENCE SECTION */
 /****************************************************/
 
-#experience{margin:0px 43px; padding-top:115px;}
+#experience{margin:0px 43px; padding-top:5px;}
 #experience .col{
-	width:235px;
+	width:400px;
 	float:left;
 }
 #experience .content{overflow:auto;}
-#experience .col-mid{margin:0px 65px;}
+#experience .col-mid{margin:0px 29px;}
 
 /****************************************************/
 /* WORK SECTION */
